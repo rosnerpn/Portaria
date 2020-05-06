@@ -1,7 +1,7 @@
 Portaria
 =======
 
-Controle de Entrada e Saída de Visitante construído com:
+Controle de Entrada e Saída de Visitantes construído com:
 * PHP 
 * MySQL
 ---------------
